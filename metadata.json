@@ -1,0 +1,6 @@
+{
+  "name": "aTide - AI Social Card Generator",
+  "description": "Generate high-converting LinkedIn post cards, Twitter graphics, code snippets, carousels, and custom social graphics with AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
